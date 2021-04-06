@@ -28,3 +28,7 @@ body {
 .carousel-item {
   height: 500px;
 }
+
+.feature-about-divider {
+  margin: 86px;
+}
