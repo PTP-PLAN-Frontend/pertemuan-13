@@ -25,10 +25,30 @@ body {
   font-weight: 800;
 }
 
+.carousel {
+  background: linear-gradient(to right, #8cdff7, #3c717b);
+}
+
 .carousel-item {
   height: 500px;
 }
 
+.carousel-description {
+  color: #fff;
+}
+
 .feature-about-divider {
   margin: 86px;
+}
+
+footer {
+  background-color: #3c717b;
+  color: #fff;
+}
+
+.container > a > i {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  color: #fff;
 }
