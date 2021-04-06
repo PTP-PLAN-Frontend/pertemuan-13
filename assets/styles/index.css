@@ -37,6 +37,12 @@ body {
   color: #fff;
 }
 
+.feature-about-image {
+  width: 80%;
+  border-radius: 10%;
+  margin: 0 auto;
+}
+
 .feature-about-divider {
   margin: 86px;
 }
