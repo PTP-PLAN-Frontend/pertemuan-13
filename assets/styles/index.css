@@ -1,0 +1,26 @@
+body {
+  font-family: 'Kiwi Maru', serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar .icon {
+  color: #3c717b !important;
+  font-weight: 800;
+}
+
+.navbar a {
+  color: #3c717b !important;
+  margin-right: 10px;
+}
+
+.nav-left {
+  justify-content: flex-end;
+}
+
+.btn-hire-me {
+  background-color: #3c717b;
+  color: #fff;
+  font-weight: 800;
+}
